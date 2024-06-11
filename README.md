@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pranjal Chaudhari</h1>
-<h3 align="center">Currently pursuing B.Tech in Data Science</h3>
+<h3 align="center">B.Tech in Data Science</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-- 🌱 I’m currently learning **SQL, Machine learning**
+- 💼 Aspiring Data Scientist actively seeking job opportunities
+  
+- 📊 Skilled in SQL, Machine Learning, Python, and Data Analytics and visualization
+
+- 📈 Passionate about extracting insights from data and solving complex problems
+
+- 🌱 Continuously learning and exploring advanced data science techniques
 
 - 📫 How to reach me **pranjalchaudhari302@gmail.com**
 
