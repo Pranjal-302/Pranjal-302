@@ -4,7 +4,7 @@
 
 - 💼 Aspiring Data Scientist actively seeking job opportunities
   
-- 📊 Skilled in SQL, Machine Learning, Python, and Data Analytics and visualization
+- 📊 Skilled in SQL, Machine Learning, Python, Data Analytics and visualization
 
 - 📈 Passionate about extracting insights from data and solving complex problems
 
