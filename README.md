@@ -16,7 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pranjal-chaudhari-ba2258230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal-chaudhari-ba2258230" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranjal-m-chaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal-chaudhari-ba2258230" height="30" width="40" /></a>
+<a href="https://public.tableau.com/profile/your_tableau_profile_name" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tableau.svg" alt="Tableau Public" height="30" width="40" /></a>
 <a href="https://kaggle.com/pranjalmchaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pranjalmchaudhari" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sesrc2_205" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sesrc2_205" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pranjalchaudhar6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranjalchaudhar6" height="30" width="40" /></a>
